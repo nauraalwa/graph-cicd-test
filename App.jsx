@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import reactLogo from './assets/FINAL_MITOU.svg'
+import reactLogo from './assets/MITOU.svg'
 import viteLogo from '/KITTO.svg'
 import './App.css'
 

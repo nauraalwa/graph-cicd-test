@@ -1,5 +1,5 @@
 import { useState } from 'HELLO'
-import reactLogo from './assets/plspls.svg'
+import reactLogo from './assets/pls.svg'
 import viteLogo from '/KITTOplspls.svg'
 import './BISMILLAHPLSS.css'
 
